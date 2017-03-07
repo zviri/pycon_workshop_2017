@@ -34,4 +34,6 @@ Attendees who want to follow this tutorial need to bring a laptop with Scikit-le
 * [Sentiment Classification Using scikit-learn](https://www.youtube.com/watch?v=y3ZTKFZ-1QQ) video.
 * [Tutorial from Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words).
 * [Tutorial from fastml](http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/) as a follow-up to the one from Kaggle.
-* Popular Machine Learning on [https://www.coursera.org/learn/machine-learning](Coursera).
+
+### Machine Learning
+* Popular Machine Learning on [Coursera](https://www.coursera.org/learn/machine-learning).
