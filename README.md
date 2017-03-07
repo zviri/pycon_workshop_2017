@@ -36,4 +36,4 @@ Attendees who want to follow this tutorial need to bring a laptop with Scikit-le
 * [Tutorial from fastml](http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/) as a follow-up to the one from Kaggle.
 
 ### Machine Learning
-* Popular Machine Learning on [Coursera](https://www.coursera.org/learn/machine-learning).
+* Popular Machine Learning course on [Coursera](https://www.coursera.org/learn/machine-learning).
