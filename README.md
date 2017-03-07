@@ -23,7 +23,7 @@ Attendees who want to follow this tutorial need to bring a laptop with Scikit-le
 # Files
 * [tutorial.ipynb](tutorial.ipynb) - IPython/Jupyter notebook for this tutorial.
 * [data/receivables.tsv](data/receivables.tsv) - Real world dataset used in this tutorial.
-* [data/stopwords_cz.txt](data/stopwords_cz.txt) - List of czech stopwords.
+* [data/stopwords_cz.txt](data/stopwords_cz.txt) - List of Czech stopwords.
 
 # Resources
 ### Scikit-learn
