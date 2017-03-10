@@ -7,13 +7,13 @@
   * Use the IPython/Jupyter notebook [tutorial.ipynb](tutorial.ipynb)
   * All the required data is in the folder `data`
 * Required software for this workshop:
-  * [http://scikit-learn.org/](scikit-learn) and [http://pandas.pydata.org/](pandas) (+ dependencies)
-  * [https://www.continuum.io/downloads](Anaconda distribution of Python) is the easiest way to install both of these
+  * [scikit-learn](http://scikit-learn.org/) and [pandas](http://pandas.pydata.org/) (+ dependencies)
+  * [Anaconda distribution of Python](https://www.continuum.io/downloads) is the easiest way to install both of these
   * Both **Python 2** and **3** are fine
 * About me:
-  * PhD student at [http://www.matfyz.cz/](Matfyz) in Prague
-  * ML Engineer at (http://ceai.io/)[CEAI] (formerly Seznam.cz)
-  * Twitter: (https://twitter.com/zvirisk)[@zvirisk]
+  * PhD student at [Matfyz](http://www.matfyz.cz/) in Prague
+  * ML Engineer at (CEAI)[http://ceai.io/] (formerly Seznam.cz)
+  * Twitter: (@zvirisk)[https://twitter.com/zvirisk]
 * How this tutorial will work
 * What will you learn
 * What I expect you already know
