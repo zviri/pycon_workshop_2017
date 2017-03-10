@@ -41,19 +41,19 @@ Attendees who want to follow this tutorial need to bring a laptop with Scikit-le
 * Topics not covered
 
 ## Files
-* [tutorial.ipynb](tutorial.ipynb) - IPython/Jupyter notebook for this tutorial.
-* [data/receivables.tsv](data/receivables.tsv) - Real world dataset used in this tutorial.
-* [data/stopwords_cz.txt](data/stopwords_cz.txt) - List of Czech stopwords.
+* [tutorial.ipynb](tutorial.ipynb) - IPython/Jupyter notebook for this tutorial
+* [data/receivables.tsv](data/receivables.tsv) - Real world dataset used in this tutorial
+* [data/stopwords_cz.txt](data/stopwords_cz.txt) - List of Czech stopwords
 
 ## Resources
 #### Scikit-learn
-* [Working With Text Data](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html) tutorial from the scikit-learn community itself.
-* [Text Feature Extraction](http://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction) more about converting text into features from scikit-learn.
+* [Working With Text Data](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html) tutorial from the scikit-learn community itself
+* [Text Feature Extraction](http://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction) more about converting text into features from scikit-learn
 
 #### Classification tutorials
-* [Sentiment Classification Using scikit-learn](https://www.youtube.com/watch?v=y3ZTKFZ-1QQ) video.
-* [Tutorial from Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words).
-* [Tutorial from fastml](http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/) as a follow-up to the one from Kaggle.
+* [Sentiment Classification Using scikit-learn](https://www.youtube.com/watch?v=y3ZTKFZ-1QQ) video
+* [Tutorial from Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words)
+* [Tutorial from fastml](http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/) as a follow-up to the one from Kaggle
 
 #### Machine Learning
-* Popular Machine Learning course on [Coursera](https://www.coursera.org/learn/machine-learning).
+* Popular Machine Learning course on [Coursera](https://www.coursera.org/learn/machine-learning)
