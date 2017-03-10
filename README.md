@@ -5,7 +5,7 @@
 * Required files for this workshop:
   * Clone or download this repository: http://bit.ly/pycon2017
   * Use the IPython/Jupyter notebook [tutorial.ipynb](tutorial.ipynb)
-  * All the required data is in the folder <b>data</b>
+  * All the required data is in the folder `data`
 * Required software for this workshop:
   * [http://scikit-learn.org/](scikit-learn) and [http://pandas.pydata.org/](pandas) (+ dependencies)
   * [https://www.continuum.io/downloads](Anaconda distribution of Python) is the easiest way to install both of these
