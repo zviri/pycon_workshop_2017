@@ -5,15 +5,15 @@
 * Required files for this workshop:
   * Clone or download this repository: http://bit.ly/pycon2017
   * Use the IPython/Jupyter notebook [tutorial.ipynb](tutorial.ipynb)
-  * All the required data is in the folder **data**
+  * All the required data is in the folder <b>data</b>
 * Required software for this workshop:
-  * scikit-learn and pandas (+ dependencies)
-  * Anaconda distribution of Python is the easies way to install both of these
-  * Both Python 2 and 3 are fine
+  * [http://scikit-learn.org/](scikit-learn) and [http://pandas.pydata.org/](pandas) (+ dependencies)
+  * [https://www.continuum.io/downloads](Anaconda distribution of Python) is the easiest way to install both of these
+  * Both **Python 2** and **3** are fine
 * About me:
-  * PhD student at Matfyz in Prague
-  * ML Engineer at CEAI (formerly Seznam.cz)
-  * Twitter: @zvirisk
+  * PhD student at [http://www.matfyz.cz/](Matfyz) in Prague
+  * ML Engineer at (http://ceai.io/)[CEAI] (formerly Seznam.cz)
+  * Twitter: (https://twitter.com/zvirisk)[@zvirisk]
 * How this tutorial will work
 * What will you learn
 * What I expect you already know
