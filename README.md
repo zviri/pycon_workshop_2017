@@ -12,8 +12,8 @@
   * Both **Python 2** and **3** are fine
 * About me:
   * PhD student at [Matfyz](http://www.matfyz.cz/) in Prague
-  * ML Engineer at (CEAI)[http://ceai.io/] (formerly Seznam.cz)
-  * Twitter: (@zvirisk)[https://twitter.com/zvirisk]
+  * ML Engineer at [CEAI](http://ceai.io/) (formerly Seznam.cz)
+  * Twitter: [@zvirisk](https://twitter.com/zvirisk)
 * How this tutorial will work
 * What will you learn
 * What I expect you already know
